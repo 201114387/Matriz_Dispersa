@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Matriz_Dispersa_Final</string>
+
+    <string name="hello_world">Ingrese Nombre Correo</string>
+    <string name="hello_world1">Ingrese Dominio Correo por ejemplo @hotmail.com o @gmail.com</string>
+    <string name="action_settings">Settings</string>
+</resources>
